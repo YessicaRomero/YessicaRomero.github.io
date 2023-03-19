@@ -1,0 +1,61 @@
+*{
+  font-family: 'Itim', cursive;
+  font-size: 25px;
+}
+
+
+img{
+    border: 5px solid #ccc;
+    float: left;
+    margin: 15px;
+    -webkit-transition: margin 0.5s ease-out;
+    -moz-transition: margin 0.5s ease-out;
+    -o-transition: margin 0.5s ease-out;
+}
+ 
+img:hover {
+    margin-top: 2px;
+}
+
+img { 
+   background-color: rgb(40, 36, 71);
+ margin: 10px;
+ padding: 10px;
+}
+  h1 {
+    
+    display:block ;
+    margin: red;
+    text-align: center;
+    font-size: 45px;
+    box-shadow: 0 0 0 5px #c1eff7;
+    box-shadow: 0 0 0 15px #dddc94;
+   
+  }
+  body {
+    background-color: beige;
+    color: rgb(240, 206, 12);
+  } 
+ 
+ 
+ 
+ 
+  body {
+    font-family: 'Lucida Sans Unicode';
+  }
+  strong{
+    font-size: 20px;
+  }
+
+svg {
+  width: 30px; 
+  height: 30px;
+ 
+}
+ *{
+  background-image: url("programacion.jpg");
+}
+button {
+  color: rgb(107, 97, 245);
+  
+}
